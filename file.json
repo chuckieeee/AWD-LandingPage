@@ -23,5 +23,10 @@
         "title": "Seatwork",
         "description": "Animation Activity",
         "link": "./Seatwork"
+    },
+    {
+        "title": "Resume",
+        "description": "My own resume",
+        "link": "./Resume"
     }
 ]
